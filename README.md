@@ -31,17 +31,17 @@ Create a Power BI dashboard with a comprehensive view.
 
 #### Sales:
 🚀 Focus on top-performing products and improve marketing efforts around them.<br>
-🚀 Identify regions with low sales and revise sales strategy.
+🚀 Identify regions with low sales and revise sales strategy.<br>
 🚀 Offer targeted promotions for slow-moving products.
 
 #### Supply Chain:
 🚀 Reduce excess inventory costs by improving stock turnover.<br>
-🚀 Improve supplier management by tracking lead times & performance.
+🚀 Improve supplier management by tracking lead times & performance.<br>
 🚀 Prevent out-of-stock situations by improving demand forecasting.
 
 #### Marketing:
 🚀 Increase ad spend on high-converting channels.<br>
-🚀 Optimize campaigns based on website traffic & engagement data.
+🚀 Optimize campaigns based on website traffic & engagement data.<br>
 🚀 Implement personalized marketing strategies based on customer behavior.
 
 
