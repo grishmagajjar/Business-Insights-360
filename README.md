@@ -15,10 +15,10 @@ My task was to design and develop a Power BI dashboard that provides a 360-degre
 
 #### 2. Dashboard Development (5 Views)
 - Built interactive dashboards with multiple views to cater to different analytical needs.
-- Added detailed tooltips for easy understanding.
+- Added detailed tooltips for easy understanding.<br>
   <img src="https://github.com/grishmagajjar/Business-Insights-360/blob/main/Screenshots/Tooltip-example.png" height="400px" />
-- Implemented a switch-based DAX formula to allow users to toggle between different year-based targets.
-  <img src="https://github.com/grishmagajjar/Business-Insights-360/blob/main/Screenshots/Filters.png"/>
+- Implemented a switch-based DAX formula to allow users to toggle between different year-based targets.<br>
+  <img src="https://github.com/grishmagajjar/Business-Insights-360/blob/main/Screenshots/Filters.png" height="400px"/>
 - Ensured that data updates correctly across all views when selections are changed.
 
 #### 3. Deployment & Presentation
