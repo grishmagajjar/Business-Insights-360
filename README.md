@@ -1,69 +1,54 @@
 # Business-Insights-360
-Develop a Power BI dashboard to empower the company with data-driven decision-making and actionable insights.
+Objective: To develop a Power BI dashboard to empower the company with data-driven decision-making and actionable insights.
 
 ## Situation:
-AtliQ Hardware, an imaginery company which sell hardware (like PCs and keyboard) expanded in to the US market but failed and suffered huge loss.
+AtliQ Hardware, an imaginery company which sell hardware (like PCs and keyboard) expanded in to the Latin America but failed and suffered huge loss there.
 The decision was made without data and relied only on intuition, Now they want to ensure future decisions are data driven.
 
 ## Task:
-Create a Power BI dashboard with a comprehensive view.
-#### Finance:
-🎯 Revenue, expenses, and profit trends<br>
-🎯 Budget vs. actual performance
-
-#### Sales:
-🎯 Total sales, revenue, and growth trends<br>
-🎯 Top-performing products/services
-
-#### Supply Chain:
-🎯 Inventory levels and stock turnover<br>
-🎯 Supplier performance and lead times
-
-#### Marketing:
-🎯 Website and social media analytics<br>
-🎯 Lead generation and conversion rates
-
+My task was to design and develop a Power BI dashboard that provides a 360-degree business insight, enabling stakeholders to track key metrics across Finance, Sales, Supply Chain, and Marketing expenses efficiently.
 
 ## Action:
-#### Finance:
-🚀 Identify high-cost areas and implement cost-cutting strategies.<br>
-🚀 Forecast revenue trends to prevent future financial losses.
+#### 1. Data Modeling (Snowflake Schema)
+- Established relationships between tables(Snowflake Schema) to enhance data integrity and performance.
+<img src=""/>
 
-#### Sales:
-🚀 Focus on top-performing products and improve marketing efforts around them.<br>
-🚀 Identify regions with low sales and revise sales strategy.<br>
-🚀 Offer targeted promotions for slow-moving products.
+#### 2. Dashboard Development (5 Views)
+- Built interactive dashboards with multiple views to cater to different analytical needs.
+- Added detailed tooltips for easy understanding.
+- Implemented a switch-based DAX formula to allow users to toggle between different year-based targets.
+- Ensured that data updates correctly across all views when selections are changed.
 
-#### Supply Chain:
-🚀 Reduce excess inventory costs by improving stock turnover.<br>
-🚀 Improve supplier management by tracking lead times & performance.<br>
-🚀 Prevent out-of-stock situations by improving demand forecasting.
-
-#### Marketing:
-🚀 Increase ad spend on high-converting channels.<br>
-🚀 Optimize campaigns based on website traffic & engagement data.<br>
-🚀 Implement personalized marketing strategies based on customer behavior.
-
+#### 3. Deployment & Presentation
+- Published the Power BI report to Power BI Service for cloud access.
 
 ## Result:
-#### Finance:
-✅ Improved profitability by optimizing cost structures.<br>
-✅ Reduced budget variances, ensuring financial stability.
+#### 1. Optimized Data Modeling (Snowflake Schema)
+- Improved data integrity & consistency, making it easier for users to analyze data.
 
-#### Sales:
-✅ Boosted sales & revenue by focusing on high-performing products.<br>
-✅ Improved customer retention through targeted promotions.<br>
-✅ Enhanced regional sales strategies, leading to higher market penetration.
+#### 2. Interactive Dashboard Development (5 Views)
+- Enabled seamless data exploration with interactive views, improving user decision-making.
+- Enhanced data storytelling with dynamic visuals and slicers, leading to better insights.
+- Users can now switch between multiple perspectives (e.g., Last Year vs. Target) without confusion.
+- Reduced manual work for users by automating year/Quarter-based calculations with DAX.
 
-#### Supply Chain:
-✅ Reduced inventory costs and minimized waste.<br>
-✅ Faster order fulfillment by improving supplier lead times.<br>
-✅ Better demand forecasting, reducing stock-outs & overstocking.
+#### 3. Deployment & Presentation
+- Successfully published & shared on Power BI Service, GitHub & LinkedIn.
+- Created a video walkthrough, making the project easier to understand for recruiters & peers.
 
-#### Marketing:
-✅ Higher conversion rates due to data-driven marketing decisions.<br>
-✅ Increased customer engagement and website traffic.<br>
-✅ More efficient ad spend, improving ROI.
+### Tools/Technology Used:
+##### Data Collection & Storage:
+- mySQL
+- ETL Process
+- MS Excel
 
-### Tools Used:
-power BI, MySQL
+##### Data Visualization & Analytics:
+- Power BI 
+- DAX (Data Analysis Expressions) 
+- Power Query 
+
+#### Advanced Features:
+- Bookmarks & Drill-Throughs
+- Dynamic Slicers & Parameters
+
+
