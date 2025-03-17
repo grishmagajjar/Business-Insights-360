@@ -11,7 +11,7 @@ My task was to design and develop a Power BI dashboard that provides a 360-degre
 ## Action:
 #### 1. Data Modeling (Snowflake Schema)
 - Established relationships between tables(Snowflake Schema) to enhance data integrity and performance.
-<img src=""/>
+<img src="https://github.com/grishmagajjar/Business-Insights-360/blob/main/Screenshots/Model-view.png"/>
 
 #### 2. Dashboard Development (5 Views)
 - Built interactive dashboards with multiple views to cater to different analytical needs.
