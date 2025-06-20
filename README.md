@@ -23,7 +23,7 @@ My task was to design and develop a Power BI dashboard that provides a 360-degre
 
 #### 3. Deployment & Presentation
 - Published the Power BI report to Power BI Service for cloud access.<br>
-  <a href="[https://grishma-gajjar.netlify.app/projects/business-insights](https://grishma-gajjar.netlify.app/projects/business-insights#live-dashboard)" target="_blank">Live Dashboard</a>
+  <a href="https://grishma-gajjar.netlify.app/projects/business-insights#live-dashboard" target="_blank">Live Dashboard</a>
 
 ## Result:
 #### 1. Optimized Data Modeling (Snowflake Schema)
